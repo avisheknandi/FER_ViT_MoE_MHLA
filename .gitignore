@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+.env
+venv/
+env/
+ENV/
+pip-freeze.txt
+*.egg-info/
+.ipynb_checkpoints/
+
+# Data - Avoid committing large raw data
+data/fer2013.csv
+data/fer2013.csv.zip
+
+# Models - Avoid committing large model checkpoints
+models/*.pth
+models/*.pt
+models/*.bin
+
+# Hugging Face Cache
+hf_cache/
+
+# IDE specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db 
