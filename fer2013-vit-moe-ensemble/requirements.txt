@@ -1,0 +1,14 @@
+pandas
+numpy
+torch
+torchvision
+# torchaudio # Not used in the final script, can be removed if desired
+transformers
+scikit-learn
+tqdm
+Pillow
+gdown
+datasets
+accelerate
+sentencepiece
+zipfile36 # Though zipfile is built-in, good practice for some envs, optional 
