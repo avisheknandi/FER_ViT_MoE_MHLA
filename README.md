@@ -34,8 +34,8 @@ fer2013-vit-moe-ensemble/
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repository-url>
-    cd fer2013-vit-moe-ensemble
+    git clone https://github.com/avisheknandi/FER_ViT_MoE_MHLA
+    cd FER_ViT_MoE_MHLA
     ```
 
 2.  **Create a virtual environment (recommended):**
